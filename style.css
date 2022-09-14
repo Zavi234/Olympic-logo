@@ -1,0 +1,12 @@
+.body_background{
+    background-image: url("olympic-rings.gif");
+    text-align:center;
+}
+
+canvas{
+    border-width:10px;
+    border-style:ridge;
+    border-color:springgreen;
+    background-color:white;
+}
+
